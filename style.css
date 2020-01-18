@@ -10,5 +10,8 @@ nav a {
   background-color:grey;
 }
 
-figcaption {font-size:80%;}
+figcaption {
+  font-size:80%;
+}
+
 
