@@ -5,16 +5,8 @@ body {
   text-align: center
 }
 
-
-
-img {
-   text-align: center 
-}
-
 nav a {
-  text-align: center;
-  left:"10px";
-  right:"10px";
-  color:"grey";
+  padding:10px;
+  background-color:grey;
 }
 
