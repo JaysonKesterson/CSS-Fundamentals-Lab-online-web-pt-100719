@@ -19,3 +19,10 @@ figcaption {
   margin-left: auto;
   margin-right: auto;     
 }
+
+#details div {
+  background-color: red;
+  display: block;
+  float: left;
+  width: 25%;
+}
